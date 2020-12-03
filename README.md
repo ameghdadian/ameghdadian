@@ -15,7 +15,7 @@ I'm Amir, a **Front-End developer** and an Information Technology graduate with 
 - 💬 Ask me about React, Javascript and Python 
 - 📫 You can reach me at: 
   - [E-mail](mailto:amirthedevops@gmail.com)
-  - [Linkedin](www.linkedin.com/in/amirhussain-meghdadian)
+  - [Linkedin](https://www.linkedin.com/in/amirhussain-meghdadian)
   
 Thank you for visiting my little place on Github! Hope you have an awesome day!
 
