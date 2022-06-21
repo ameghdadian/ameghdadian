@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-I'm Amir Hussain, a **Back-End developer** and an Information Technology graduate with a passion for **Python** and **AI**.
+I'm Amir Hussain, a **Software Engineer** and an Information Technology graduate with a passion for **Python** and **AI**.
 
 - 🤩 I'm currently using **Python** and **Javascript** on a daily basis.
 - 🤔 I’m looking for help with learning AI.
