@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 I'm Amir Hussain, a **Software Engineer** and an Information Technology graduate with a passion for **Python** and **AI**.
 
 - 🤩 I'm currently using **Python** and **Javascript** on a daily basis.
-- 🤔 I’m looking for help with learning AI.
 - 💬 Ask me about Python and Javascript. 
 - 📫 You can reach me at: 
   - [E-mail](mailto:amirthedevops@gmail.com)
@@ -16,13 +15,5 @@ I'm Amir Hussain, a **Software Engineer** and an Information Technology graduate
   
 Thank you for visiting my little place on Github! Hope you have an awesome day!
 
-![visitor count](https://visitor-badge.glitch.me/badge?page_id=consDev/consDev)
+![visitor count](https://visitor-badge.glitch.me/badge?page_id=ameghdadian/ameghdadian)
 
-<!--
--  Find some more stuff at https://github.com/AasaiAlangaram
-- ⚡ Where to find more of my work:
-  - [My website](https://apurvmishra.xyz)
-  - [Devpost](https://devpost.com/apurvmishra99)
-
-
--->
